@@ -1,0 +1,7 @@
+D:\Documentos\Faculdade\7º Período\Plataforma .NET - Petrônio\Projetos\AlgoritmosGeneticos\QuadroHorarios\bin\Debug\QuadroHorarios.dll
+D:\Documentos\Faculdade\7º Período\Plataforma .NET - Petrônio\Projetos\AlgoritmosGeneticos\QuadroHorarios\bin\Debug\QuadroHorarios.pdb
+D:\Documentos\Faculdade\7º Período\Plataforma .NET - Petrônio\Projetos\AlgoritmosGeneticos\QuadroHorarios\bin\Debug\AlgoritmosGeneticos.dll
+D:\Documentos\Faculdade\7º Período\Plataforma .NET - Petrônio\Projetos\AlgoritmosGeneticos\QuadroHorarios\bin\Debug\AlgoritmosGeneticos.pdb
+D:\Documentos\Faculdade\7º Período\Plataforma .NET - Petrônio\Projetos\AlgoritmosGeneticos\QuadroHorarios\obj\Debug\ResolveAssemblyReference.cache
+D:\Documentos\Faculdade\7º Período\Plataforma .NET - Petrônio\Projetos\AlgoritmosGeneticos\QuadroHorarios\obj\Debug\QuadroHorarios.dll
+D:\Documentos\Faculdade\7º Período\Plataforma .NET - Petrônio\Projetos\AlgoritmosGeneticos\QuadroHorarios\obj\Debug\QuadroHorarios.pdb

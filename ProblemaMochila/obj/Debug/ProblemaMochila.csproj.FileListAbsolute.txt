@@ -1,0 +1,7 @@
+D:\Documentos\Faculdade\7º Período\Plataforma .NET - Petrônio\Projetos\AlgoritmosGeneticos\ProblemaMochila\bin\Debug\ProblemaMochila.dll
+D:\Documentos\Faculdade\7º Período\Plataforma .NET - Petrônio\Projetos\AlgoritmosGeneticos\ProblemaMochila\bin\Debug\ProblemaMochila.pdb
+D:\Documentos\Faculdade\7º Período\Plataforma .NET - Petrônio\Projetos\AlgoritmosGeneticos\ProblemaMochila\bin\Debug\AlgoritmosGeneticos.dll
+D:\Documentos\Faculdade\7º Período\Plataforma .NET - Petrônio\Projetos\AlgoritmosGeneticos\ProblemaMochila\bin\Debug\AlgoritmosGeneticos.pdb
+D:\Documentos\Faculdade\7º Período\Plataforma .NET - Petrônio\Projetos\AlgoritmosGeneticos\ProblemaMochila\obj\Debug\ResolveAssemblyReference.cache
+D:\Documentos\Faculdade\7º Período\Plataforma .NET - Petrônio\Projetos\AlgoritmosGeneticos\ProblemaMochila\obj\Debug\ProblemaMochila.dll
+D:\Documentos\Faculdade\7º Período\Plataforma .NET - Petrônio\Projetos\AlgoritmosGeneticos\ProblemaMochila\obj\Debug\ProblemaMochila.pdb

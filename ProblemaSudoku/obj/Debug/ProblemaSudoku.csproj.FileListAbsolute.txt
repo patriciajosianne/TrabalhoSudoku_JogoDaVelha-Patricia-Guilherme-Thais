@@ -1,0 +1,7 @@
+D:\Documentos\Faculdade\7º Período\Plataforma .NET - Petrônio\Projetos\AlgoritmosGeneticos\ProblemaSudoku\bin\Debug\ProblemaSudoku.dll
+D:\Documentos\Faculdade\7º Período\Plataforma .NET - Petrônio\Projetos\AlgoritmosGeneticos\ProblemaSudoku\bin\Debug\ProblemaSudoku.pdb
+D:\Documentos\Faculdade\7º Período\Plataforma .NET - Petrônio\Projetos\AlgoritmosGeneticos\ProblemaSudoku\bin\Debug\AlgoritmosGeneticos.dll
+D:\Documentos\Faculdade\7º Período\Plataforma .NET - Petrônio\Projetos\AlgoritmosGeneticos\ProblemaSudoku\bin\Debug\AlgoritmosGeneticos.pdb
+D:\Documentos\Faculdade\7º Período\Plataforma .NET - Petrônio\Projetos\AlgoritmosGeneticos\ProblemaSudoku\obj\Debug\ResolveAssemblyReference.cache
+D:\Documentos\Faculdade\7º Período\Plataforma .NET - Petrônio\Projetos\AlgoritmosGeneticos\ProblemaSudoku\obj\Debug\ProblemaSudoku.dll
+D:\Documentos\Faculdade\7º Período\Plataforma .NET - Petrônio\Projetos\AlgoritmosGeneticos\ProblemaSudoku\obj\Debug\ProblemaSudoku.pdb

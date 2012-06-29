@@ -1,0 +1,13 @@
+D:\Documentos\Faculdade\7º Período\Plataforma .NET - Petrônio\Projetos\AlgoritmosGeneticos\TesteAG\bin\Debug\TesteAG.exe
+D:\Documentos\Faculdade\7º Período\Plataforma .NET - Petrônio\Projetos\AlgoritmosGeneticos\TesteAG\bin\Debug\TesteAG.pdb
+D:\Documentos\Faculdade\7º Período\Plataforma .NET - Petrônio\Projetos\AlgoritmosGeneticos\TesteAG\bin\Debug\AlgoritmosGeneticos.dll
+D:\Documentos\Faculdade\7º Período\Plataforma .NET - Petrônio\Projetos\AlgoritmosGeneticos\TesteAG\bin\Debug\ProblemaMochila.dll
+D:\Documentos\Faculdade\7º Período\Plataforma .NET - Petrônio\Projetos\AlgoritmosGeneticos\TesteAG\bin\Debug\ProblemaSudoku.dll
+D:\Documentos\Faculdade\7º Período\Plataforma .NET - Petrônio\Projetos\AlgoritmosGeneticos\TesteAG\bin\Debug\QuadroHorarios.dll
+D:\Documentos\Faculdade\7º Período\Plataforma .NET - Petrônio\Projetos\AlgoritmosGeneticos\TesteAG\bin\Debug\AlgoritmosGeneticos.pdb
+D:\Documentos\Faculdade\7º Período\Plataforma .NET - Petrônio\Projetos\AlgoritmosGeneticos\TesteAG\bin\Debug\ProblemaMochila.pdb
+D:\Documentos\Faculdade\7º Período\Plataforma .NET - Petrônio\Projetos\AlgoritmosGeneticos\TesteAG\bin\Debug\ProblemaSudoku.pdb
+D:\Documentos\Faculdade\7º Período\Plataforma .NET - Petrônio\Projetos\AlgoritmosGeneticos\TesteAG\bin\Debug\QuadroHorarios.pdb
+D:\Documentos\Faculdade\7º Período\Plataforma .NET - Petrônio\Projetos\AlgoritmosGeneticos\TesteAG\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documentos\Faculdade\7º Período\Plataforma .NET - Petrônio\Projetos\AlgoritmosGeneticos\TesteAG\obj\x86\Debug\TesteAG.exe
+D:\Documentos\Faculdade\7º Período\Plataforma .NET - Petrônio\Projetos\AlgoritmosGeneticos\TesteAG\obj\x86\Debug\TesteAG.pdb

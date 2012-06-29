@@ -1,0 +1,5 @@
+D:\Documentos\Faculdade\7º Período\Plataforma .NET - Petrônio\Projetos\AlgoritmosGeneticos\AlgoritmosGeneticos\bin\Debug\AlgoritmosGeneticos.dll
+D:\Documentos\Faculdade\7º Período\Plataforma .NET - Petrônio\Projetos\AlgoritmosGeneticos\AlgoritmosGeneticos\bin\Debug\AlgoritmosGeneticos.pdb
+D:\Documentos\Faculdade\7º Período\Plataforma .NET - Petrônio\Projetos\AlgoritmosGeneticos\AlgoritmosGeneticos\obj\Debug\ResolveAssemblyReference.cache
+D:\Documentos\Faculdade\7º Período\Plataforma .NET - Petrônio\Projetos\AlgoritmosGeneticos\AlgoritmosGeneticos\obj\Debug\AlgoritmosGeneticos.dll
+D:\Documentos\Faculdade\7º Período\Plataforma .NET - Petrônio\Projetos\AlgoritmosGeneticos\AlgoritmosGeneticos\obj\Debug\AlgoritmosGeneticos.pdb
