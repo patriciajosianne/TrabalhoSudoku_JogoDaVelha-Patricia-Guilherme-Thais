@@ -173,11 +173,20 @@ namespace TesteAG
                 TaxaSelecao = 0.5f,
                 TamanhoIndividuo = 81
             };
-
+            String inicioProcessamento = "Início do processamento: " + DateTime.Now;
+            Console.WriteLine(inicioProcessamento);
+            Console.WriteLine("Aguarde. Processando...");
             sudo.Executar();
+            Console.WriteLine("Fitness varia de -27 a 27.");
             if (sudo.Geracoes == 200000)
             {
                 Console.WriteLine("Solução não encontrada. Fitness = " + sudo.Solucao.Fitness);
+                for (int i = 0; i < 81; i++)
+                {
+                    Console.Write(((int)sudo.Solucao.Cromossomos[i]) + "\t");
+                    if ((i + 1) % 9 == 0)
+                        Console.Write("\n");
+                }
             }
             else
             {
@@ -189,6 +198,9 @@ namespace TesteAG
                         Console.Write("\n");
                 }
             }
+            Console.WriteLine(inicioProcessamento);
+            Console.WriteLine("Fim do processamento: " + DateTime.Now);
+            Console.WriteLine("Processsamento concluído.");
             Console.ReadLine();
         }
     }

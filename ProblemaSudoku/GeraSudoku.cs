@@ -12,6 +12,7 @@ namespace ProblemaSudoku
         public GeraSudoku(int tamanhoInd)
         {
             Solucao = new Sudoku(tamanhoInd);
+            Solucao.Fitness = -30;
         }
 
         public override IIndividuo RealizarCruzamento(IIndividuo a, IIndividuo b)
@@ -32,7 +33,12 @@ namespace ProblemaSudoku
         public override void RealizarMutacao(IIndividuo a)
         {
             Random rnd = new Random();
-            a.Cromossomos[rnd.Next(TamanhoIndividuo - 1)] = rnd.Next(9);
+            int p;
+            do
+            {
+                p = rnd.Next(10);
+            } while (p == 0);
+            a.Cromossomos[rnd.Next(TamanhoIndividuo - 1)] = p;
         }
 
         //Caso não tenha um desempenho bom, refazer método para gerar população inicial de forma mais inteligente

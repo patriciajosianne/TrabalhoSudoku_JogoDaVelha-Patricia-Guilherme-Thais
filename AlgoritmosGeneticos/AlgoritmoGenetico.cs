@@ -104,6 +104,7 @@ namespace AlgoritmosGeneticos
                 Mutacao();
                 AtualizaFitness();
                 Geracoes++;
+                Console.WriteLine("Geração: " + Geracoes + " Fitness = " + Solucao.Fitness);
             } 
         }
 
