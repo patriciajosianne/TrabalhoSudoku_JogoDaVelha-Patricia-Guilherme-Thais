@@ -44,7 +44,7 @@ namespace ProblemaSudoku
         //Caso não tenha um desempenho bom, refazer método para gerar população inicial de forma mais inteligente
         public override void GerarPopulacaoInicial()
         {
-            Random rnd = new Random();
+            /*Random rnd = new Random();
             for (int individuo = 0; individuo < TamanhoPopulacao; individuo++)
             {
                 IIndividuo ind = new Sudoku(TamanhoIndividuo);
@@ -55,6 +55,25 @@ namespace ProblemaSudoku
                     {
                         p = rnd.Next(10);
                     } while (p == 0);
+                    ind.Cromossomos[cromossomo] = p;
+                }
+                Populacao.Add(ind);
+            }*/
+
+            Random rnd = new Random();
+            for (int individuo = 0; individuo < TamanhoPopulacao; individuo++)
+            {
+                IIndividuo ind = new Sudoku(TamanhoIndividuo);
+                for (int cromossomo = 0; cromossomo < TamanhoIndividuo; cromossomo++)
+                {
+                    int p;
+                    do
+                    {
+                        do
+                        {
+                            p = rnd.Next(10);
+                        } while (p == 0);
+                    } while (verificaRepetidoLinha(p, cromossomo, ind));
                     ind.Cromossomos[cromossomo] = p;
                 }
                 Populacao.Add(ind);
@@ -172,5 +191,61 @@ namespace ProblemaSudoku
             }
             return fitness;
         }
+
+        public bool verificaRepetidoLinha(int elemento, int posIndividuo, IIndividuo ind)
+        {
+            if((posIndividuo % 9 != 0))
+            {
+                int cont = posIndividuo-1;
+                bool continua = true;
+                int number;
+                while (continua)
+                {
+                    number = (int)ind.Cromossomos[cont];
+                    if (number == elemento)
+                    {
+                        return true;
+
+                    }
+                    if (cont % 9 == 0)
+                    {
+                        continua = false;
+                        return false;
+                    }
+                    cont--;
+
+                }
+            }
+            return false;
+        }
+
+        public bool verificaRepetidoColuna(int elemento, int posIndividuo, IIndividuo ind)
+        {
+            if ((posIndividuo > 8))
+            {
+                int cont = posIndividuo - 9;
+                bool continua = true;
+                int number;
+                while (continua)
+                {
+                    number = (int)ind.Cromossomos[cont];
+                    if (number == elemento)
+                    {
+                        return true;
+
+                    }
+                    if (cont % 9 < 9)
+                    {
+                        continua = false;
+                        return false;
+                    }
+                    cont = cont - 9;
+
+                }
+            }
+            return false;
+        }
     }
+
+
 }
