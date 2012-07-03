@@ -1,0 +1,5 @@
+D:\Documentos\Faculdade\7º Período\Plataforma .NET - Petrônio\Projetos\AlgoritmosGeneticos\ProblemaJogoDaVelha\bin\Debug\ProblemaJogoDaVelha.exe
+D:\Documentos\Faculdade\7º Período\Plataforma .NET - Petrônio\Projetos\AlgoritmosGeneticos\ProblemaJogoDaVelha\bin\Debug\ProblemaJogoDaVelha.pdb
+D:\Documentos\Faculdade\7º Período\Plataforma .NET - Petrônio\Projetos\AlgoritmosGeneticos\ProblemaJogoDaVelha\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documentos\Faculdade\7º Período\Plataforma .NET - Petrônio\Projetos\AlgoritmosGeneticos\ProblemaJogoDaVelha\obj\x86\Debug\ProblemaJogoDaVelha.exe
+D:\Documentos\Faculdade\7º Período\Plataforma .NET - Petrônio\Projetos\AlgoritmosGeneticos\ProblemaJogoDaVelha\obj\x86\Debug\ProblemaJogoDaVelha.pdb
